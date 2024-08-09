@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Baba khalil</h1>
+<hr></hr>
+<h1 align="center">Passinate MERN stack Developer</h1>
 <h3 align="center">Skilled in web development, with a foundation in Python, Java, SQL, HTML, CSS, JavaScript, React, and Power BI. Proven expertise in crafting clean and efficient code, implementing robust data structures, and ensuring optimal website performance. Adept at leveraging a diverse skill set to deliver comprehensive solutions in web development projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babakhalilm&label=Profile%20views&color=0e75b6&style=flat" alt="babakhalilm" /> </p>
@@ -9,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-h6jy.onrender.com](https://my-portfolio-h6jy.onrender.com)
 
-- 💬 Ask me about **HTML, JavaScript, React, Node.js**
+- 💬 Ask me about **HTML, JavaScript, SQL, MongoDB, React, Node.js**
 
 - 📫 How to reach me **babakhalilmalyam2@gmail.com**
 
