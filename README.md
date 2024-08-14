@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm M Baba khalil</h1>
 <div align="center">
-<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer+👨‍💻;620%2B+DSA+Questions+solved;1200%2B+hours+of+coding+expirence" alt="Typing SVG" /></a></div>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer+👨‍💻;620%2B+DSA+Questions+solved+💡;1200%2B+hours+of+coding+expirence" alt="Typing SVG" /></a></div>
 <hr></hr>
 <h3>About Me :</h1>
-<h4 align="center">Proficient in Python, Java, SQL, HTML, CSS, JavaScript, React, and Power BI. Skilled in writing clean code, implementing data structures, debugging, and optimizing website performance.</h4>
+<h4 align="center">I'm a Full Stack Web Developer specializing in the MERN stack. I turn ideas into reality with clean, efficient code and elegant interfaces. Skilled in collaboration, decision-making, and Data Structures & Algorithms.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babakhalilm&label=Profile%20views&color=0e75b6&style=flat" alt="babakhalilm" /> </p>
 
