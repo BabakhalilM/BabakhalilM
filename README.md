@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-h6jy.onrender.com](https://my-portfolio-h6jy.onrender.com)
+- 👨‍💻 All of my projects are available at https://babakhalil-portfolio.vercel.app/
 
 - 💬 Ask me about **HTML, JavaScript, SQL, MongoDB, React, Node.js**
 
