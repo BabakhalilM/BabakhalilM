@@ -1,60 +1,113 @@
-<h1 align="center">Hi 👋, I'm M Baba khalil</h1>
+<h1 align="center">Hi 👋, I'm Baba Khalil Malyam</h1>
+
+<h3 align="center">MERN Stack Developer | React | UI Engineering | Product Engineer @ Hyperface</h3>
+
 <div align="center">
-<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer+👨‍💻;620%2B+DSA+Questions+solved+💡;1200%2B+hours+of+coding+expirence" alt="Typing SVG" /></a></div>
-<hr></hr>
-<h3>About Me :</h1>
-<h4 align="center">I'm a Full Stack Web Developer specializing in the MERN stack. I turn ideas into reality with clean, efficient code and elegant interfaces. Skilled in collaboration, decision-making, and Data Structures & Algorithms.
-</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=babakhalilm&label=Profile%20views&color=0e75b6&style=flat" alt="babakhalilm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babakhalilm" alt="babakhalilm" /></a> </p>
-
-- 🌱 I’m currently learning **Node.js**
-
-- 👨‍💻 All of my projects are available at https://babakhalil-portfolio.vercel.app/
-
-- 💬 Ask me about **HTML, JavaScript, SQL, MongoDB, React, Node.js**
-
-- 📫 How to reach me **babakhalilmalyam2@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1Vw5pi4iPQCG74Ic2PY2-qHmqoXNvKxRm/view?usp=sharing
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/baba-khalil-m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baba khalil m" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mbabakhalil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mbabakhalil/" height="30" width="40" /></a>
-</p>
-
-<h3>Tech Stack & Tools</h3>
-<div >
-  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&vCenter=true&width=500&lines=Product+Engineer+at+Hyperface;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+UI+%26+Web+Apps" />
 </div>
 
-<h4>My Github Stats</h4>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babakhalilm&show_icons=true&locale=en&layout=compact" alt="babakhalilm" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babakhalilm&show_icons=true&locale=en" alt="babakhalilm" /></p>
+- 💼 Worked as **Product Engineer at Hyperface (Fintech)**
+- ⚡ Strong in **ReactJS, UI Development & Responsive Design**
+- 🧠 Experience building **production-level fintech applications**
+- 🔧 Worked on **REST APIs, internal tools, and CI/CD basics**
+- 🤖 Use AI tools like ChatGPT & Claude for faster development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babakhalilm&" alt="babakhalilm" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- ReactJS (v17), JavaScript (ES6+), TypeScript  
+- HTML5, CSS3, Tailwind CSS, Bootstrap  
+
+### ⚙️ Backend
+- Node.js, Express.js  
+- MongoDB, SQL  
+- REST APIs  
+
+### 🧰 Tools & Platforms
+- Git, GitHub, GitHub Actions  
+- Docker, Postman  
+- Sentry, Retool, WordPress  
+- Power BI  
+
+---
+
+## 💼 Experience
+
+### 🏢 Product Engineer — Hyperface (Bangalore)
+**Oct 2024 – Apr 2026**
+
+- Built and enhanced features for **AU-LIT** (credit card benefits platform)
+- Developed **AuraEdge credit card journey UI**
+- Developed **CLI Indusind credit card journey UI**
+- Worked on **CBCC platform** (config-driven PWA builder)
+- Reduced alert noise by **85% using Sentry optimization**
+- Built internal tools using **Node.js + Retool**
+- Managed **WordPress + Docker deployments**
+
+---
+
+## 📂 Projects
+
+### 🔹 Pot Management & Auto-Savings System
+- Auto-deduction (cron jobs), interest calculation, lifecycle management  
+- Real-time notifications & responsive UI  
+- **Stack:** Node.js, Express, MongoDB  
+
+👉 https://github.com/BabakhalilM/Savings-app  
+
+---
+
+### 🔹 Pollify — Interactive Poll Platform
+- JWT authentication with Admin/User roles  
+- Live charts, public sharing  
+- **Stack:** MERN  
+
+👉 https://github.com/varshitha-008/Pollify  
+
+---
+
+### 🔹 Shine Haven — E-Commerce App
+- Full shopping workflow (Cart, Wishlist, Checkout)  
+- Protected routes & filtering  
+- **Stack:** ReactJS  
+
+---
+
+## 🌐 Portfolio
+
+👉 https://babakhalil-portfolio.vercel.app/
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/baba-khalil=malyam" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://github.com/BabakhalilM" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BabakhalilM&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabakhalilM" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabakhalilM&layout=compact" />
+</p>
